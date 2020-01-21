@@ -52,9 +52,9 @@ You should only use the `pandas_cub` environment to develop this library. When y
 The completion of each part of this project is predicated upon passing the
 tests written in the `test_dataframe.py` module inside the `tests` folder.
 
-We will rely upon the [pytest library][1] to test our code. We installed it along with a command line tool with the same name during our environment creation.
+We will rely upon the pytest library to test our code. We installed it along with a command line tool with the same name during our environment creation.
 
-[Test-Driven development][3] is a popular approach for developing software. It involves writing tests first and then writing code that passes the tests.
+Test-Driven development is a popular approach for developing software. It involves writing tests first and then writing code that passes the tests.
 
 ### Testing
 
