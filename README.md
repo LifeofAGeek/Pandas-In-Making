@@ -64,3 +64,7 @@ All the tests have already been written and are located in the `test_dataframe.p
 
 If you run this command right now, all the tests will fail. You should see a line of red capital 'F's. As you complete the steps in the project, you will start passing the tests. There are about 100 total tests. Once all the tests are passed, the project will be complete.
 
+## Installing an IPython Kernel for Jupyter
+
+Although we have set up our development environment to work on the command line, we need to make a few more steps to hook it up with Jupyter Notebooks correctly.
+
